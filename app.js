@@ -1,0 +1,1 @@
+let edadMati = 18
